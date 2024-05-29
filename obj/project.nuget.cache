@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RN5FflY3Z0Y=",
+  "dgSpecHash": "5jGuHENGVZI=",
   "success": true,
-  "projectFilePath": "/Users/jcuartas/Repositorios/devops-sre-practices/practices/git/newWebApp/newWebApp.csproj",
+  "projectFilePath": "/Users/jcuartas/Repositorios/newWebApp/newWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
