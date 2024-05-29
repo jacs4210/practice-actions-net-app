@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jcuartas/Repositorios/devops-sre-practices/practices/git/newWebApp/newWebApp.csproj",
+      "projectUniqueName": "/Users/jcuartas/Repositorios/newWebApp/newWebApp.csproj",
       "projectName": "newWebApp",
-      "projectPath": "/Users/jcuartas/Repositorios/devops-sre-practices/practices/git/newWebApp/newWebApp.csproj",
+      "projectPath": "/Users/jcuartas/Repositorios/newWebApp/newWebApp.csproj",
       "packagesPath": "/Users/jcuartas/.nuget/packages/",
-      "outputPath": "/Users/jcuartas/Repositorios/devops-sre-practices/practices/git/newWebApp/obj/",
+      "outputPath": "/Users/jcuartas/Repositorios/newWebApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jcuartas/.nuget/NuGet/NuGet.Config"
