@@ -14,9 +14,16 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
+    - uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '8.0.x'
     - name: Hello World
       run: echo -e "Hello World!!"
     - name: Get date from system
       run: date
     - name: Get files from repository
       run: ls -l
+    - name: Build app
+      run: dotnet publish -c Release -o ./publish
+    - name: List files release
+      run: ls -l ./publish
